@@ -1,4 +1,7 @@
-MIT License
+## WeatherForecast2023
+
+## License:
+[MIT License]
 
 Copyright (c) 2023 Austin Drury
 
@@ -19,3 +22,22 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Description:
+The motivation behind this project was to create a functioning application that could be utilized during my own personal travels.
+The application would source the open weather API to create a 5 day / 3 hour forecast of the user's searched or previously searched cities.
+
+## Live Link:
+[WeatherForecast2023](https://ausdru.github.io/WeatherForecast2023/)
+
+## Usage:
+![screenshot1](./assets/img1.png)
+![screenshot2](./assets/img2.png)
+
+## Sources:
+1. https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.bundle.min.js
+2. https://code.jquery.com/jquery.js
+3. https://fonts.googleapis.com/css?family=Open+Sans&display=swap
+4. https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css
+
+
